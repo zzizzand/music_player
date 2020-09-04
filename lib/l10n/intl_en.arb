@@ -1,0 +1,8 @@
+{
+    "album": "Album",
+    "song": "Song",
+    "playlist": "Playlist",
+    "artist": "Artist",
+    "genre": "Genre",
+    "searchHint": "Search something"
+}
